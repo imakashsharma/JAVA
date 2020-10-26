@@ -1,2 +1,2 @@
 # JAVA
-This Repository is about JAVA Programs All the Basics + Few Advacnce Programs
+This Repository is about JAVA Programs All the Basics + Few Advance Programs
